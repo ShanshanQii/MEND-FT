@@ -8,4 +8,4 @@ MEND-FT integrates freeze-thaw front calculations with the Microbial–ENzyme De
 - `1`: permafrost
 - `2`: seasonally frozen soil
 
-`Fdep` and `Tdep` are reported in cm. Contact: [qi.shanshan@gmail.com](mailto:qi.shanshan@gmail.com).
+`Fdep` and `Tdep` are reported in cm.
