@@ -1,6 +1,6 @@
 # MEND-FT
 
-MEND-FT integrates freeze-thaw front calculations with the Microbial–ENzyme Decomposition (MEND) model. The core Fortran source is provided here; site input and model output files are not included.
+MEND-FT integrates freeze-thaw front calculations with the Microbial–ENzyme Decomposition (MEND) model. 
 
 `iALT_type` regimes:
 
