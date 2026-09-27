@@ -29,3 +29,9 @@ userio/inp/
 userio/inp/SOBOLpar.txt
 userio/inp/SOBOLpar_unfinished.txt
 AGENTS.md
+
+# Local research materials and generated comparison results
+/0freeze-thaw cycle/
+/docs/
+/outputs/
+/scripts/
